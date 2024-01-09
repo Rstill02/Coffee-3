@@ -1,0 +1,25 @@
+/*global*/
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: arial;
+}
+p{
+    line-height: 2;
+}
+img{
+    max-width: 100%;
+}
+p1{background-color: saddlebrown;}
+/*utilities*/
+
+/*header*/
+.site-init{
+    background-image: url(./images/banner.jpg);
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    color:white;
+}
